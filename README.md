@@ -1,44 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🐦 Twitter's UI Clone
 
-## Available Scripts
+## ℹ About
 
-In the project directory, you can run:
+This clone was built for the purpose of studying, following this [video](https://www.youtube.com/watch?v=K-8z_4xvT3o).
 
-### `yarn start`
+## 🛠 Technologies and Concepts Studied
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ReactJS
+- TypeScript
+- Styled Components
+- Responsive Websites
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🖥 Desktop Interface
 
-### `yarn test`
+Desktop version of the website.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="./.github/ui-clone-twitter-desktop.png" alt="desktop" width="50%" />
 
-### `yarn build`
+## 📱 Mobile Interface
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Mobile version of the website.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img src="./.github/ui-clone-twitter-mobile.png" alt="mobile" width="30%" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Deploy
 
-### `yarn eject`
+This website is being deployed using [Vercel](https://vercel.com) on this [link](https://twitter-clone-vert.vercel.app).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 👨‍💻 How to use
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You need to have `node.js` in your machine and a package manager (`npm` or `yarn`) to interpret the code and install the dependencies.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+# To install all the dependencies
+$ yarn install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# To run the project
+$ yarn start
+```
 
-## Learn More
+## 📄 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This repository is hosted under the MIT License.
