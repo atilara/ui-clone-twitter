@@ -25,7 +25,7 @@ Mobile version of the website.
 
 ## 🚀 Deploy
 
-This website is being deployed using [Vercel](https://vercel.com) on this [link](https://twitter-clone-vert.vercel.app).
+This website is being deployed using [Vercel](https://vercel.com) on this [link](https://ui-clone-twitter-coral.vercel.app).
 
 ## 👨‍💻 How to use
 
